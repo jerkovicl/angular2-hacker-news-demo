@@ -1,1 +1,2 @@
-"# angular2-hacker-news-demo" 
+"# angular2-hacker-news-demo"
+"lets get it started"
